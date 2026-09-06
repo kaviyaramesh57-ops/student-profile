@@ -18,3 +18,9 @@ To become a skilled software professional and create innovative solutions using 
 - 📸 Photography
 - ✈️ Travelling
 - 🎬 Watching Movies
+  
+## 📚 My Learning Goals
+
+- Learn Git and GitHub collaboration
+- Build a Python project
+- Explore Data Science and AI
